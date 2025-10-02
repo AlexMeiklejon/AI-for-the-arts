@@ -1,7 +1,7 @@
 # AI-for-the-arts
 goals for the year
 
-###AI for the Arts and Humanities Portfolio
+### AI for the Arts and Humanities Portfolio
 
 I really like using Markdown.
 
