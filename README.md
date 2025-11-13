@@ -1,13 +1,12 @@
 # AI-for-the-arts
-goals for the year
+2761661M
 
 ### AI for the Arts and Humanities Portfolio
 
-I really like using Markdown.
+This project will show my development of coding skills in Python and using Copilot.
 
-I think I'll use it to format all of my documents from now on.
+  ## Aims
 
-- First item
-- Second item
-- Third item
-- Fourth item
+- To create a styled and easy to read portfolio.
+- To build my confidence in coding programmes.
+- To produce code that works well.
