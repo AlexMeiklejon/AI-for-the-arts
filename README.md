@@ -10,3 +10,10 @@ This project will show my development of coding skills in Python and using Copil
 - To create a styled and easy to read portfolio.
 - To build my confidence in coding programmes.
 - To produce code that works well.
+
+
+## Algorithms in my everyday life:
+- assignments
+- weather
+
+
