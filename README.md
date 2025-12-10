@@ -12,8 +12,3 @@ This project will show my development of coding skills in Python and using Copil
 - To produce code that works well.
 
 
-## Algorithms in my everyday life:
-- assignments
-- weather
-
-
